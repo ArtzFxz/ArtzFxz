@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Platypi&weight=600&size=26&pause=1000&color=8F2CF7&random=false&width=500&height=90&lines=Ol%C3%A1%2C+me+chamo+Felipe+Polegato!;Seja+muito+bem+vindo+ao+meu+perfil+Git!!" alt="Typing SVG" /></a>
 
 <div>
-<p>➥ Atualmente trabalho como Ilustrador 🖊️, Programador 💻 e Estudante 📖</p> 
+<p>➥ Atualmente sou Ilustrador 🖊️, Programador 💻 e Estudante 📖</p> 
 <p>➥ Cursando Técnico em Programação de Jogos Digitais no SENAI "Paulo Antônio Skaf".</p>
 </div>
 
