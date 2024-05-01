@@ -76,7 +76,4 @@
   <a href = "mailto:felipepolegatofr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-<div>
-<p>➥ Atualmente sou Ilustrador 🖊️, Programador 💻 e Estudante 📖</p> 
-<p>➥ Cursando Técnico em Programação de Jogos Digitais no SENAI "Paulo Antônio Skaf".</p>
-</div>
+
