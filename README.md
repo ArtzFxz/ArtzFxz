@@ -11,7 +11,7 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtzFxz&theme=jolly&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 <div align="center">
-<a href="https://github.com/odirlei-assis">
+<a href="https://github.com/ArtzFxz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtzFxz&layout=compact&langs_count=7&theme=jolly"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtzFxz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
