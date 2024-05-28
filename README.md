@@ -61,8 +61,6 @@
   
 <img width="15%" height="15%" src="https://image.spreadshirtmedia.net/image-server/v1/designs/15116158,width=178,height=178,colors%5B0%5D=141754,colors%5B1%5D=D41C3B.png"/>
   
-<img width="15%" height="15%" src="https://static.wikia.nocookie.net/logopedia/images/f/f0/CoD_Modern_Warfare_II_%282022%29_logo_%28inverted%29.png/revision/latest/scale-to-width-down/250?cb=20220525030326"/>
-
 </div>
 <br>
 
