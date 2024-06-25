@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6F1DDF&height=120&section==header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9244&height=120&section==header"/>
 <br>
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Platypi&size=30&duration=3500&pause=2500&color=6704F7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+Git+Profile!;My+name+is+Felipe+Polegato;+I'm+16+years+old;I'm+a+Software-Developer+and+Illustrator;I'm+from+Brazil" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Platypi&size=30&duration=3500&pause=2500&color=FF9244&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+Git+Profile!;My+name+is+Felipe+Polegato;+I'm+16+years+old;I'm+a+Software-Developer+and+Illustrator;I'm+from+Brazil" alt="Typing SVG" /></a>
 
 <br>
 <br>
