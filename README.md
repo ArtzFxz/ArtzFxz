@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9244&height=120&section==header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=850BD7&height=120&section==header"/>
 <br>
 <br>
 
@@ -9,11 +9,11 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtzFxz&theme=great-gatsby&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArtzFxz&theme=jolly&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 <div align="center">
 <a href="https://github.com/ArtzFxz">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtzFxz&layout=compact&langs_count=7&theme=great-gatsby"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtzFxz&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtzFxz&layout=compact&langs_count=7&theme=jolly"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArtzFxz&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
 </div>
 </div>
 
