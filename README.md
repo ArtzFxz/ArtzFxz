@@ -36,11 +36,6 @@
   
   ![Visitor Count](https://profile-counter.glitch.me/ArtzFxz/count.svg)    
 </div>
-
-<br>
-<div align="center">
-<img width="50%" height="50%"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBra21hcnNicGk0cW02d2F0bWtlNW1xYW53ODBwdmNlaTlsb29mOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vc2rMUDjhy6Y/giphy.gif"/>
-</div>
     <br>
 
 <div align="center">
