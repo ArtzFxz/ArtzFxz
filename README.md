@@ -40,11 +40,12 @@
 
 <div align="center">
   <h2>🎓 Completed Courses 🎓</h2> 
+    <p> ➥ Inglês (WIZARD) 📢</p> 
     <p> ➥ Curso Raspberry-pi (Curso em Video)🍓</p>
     <p> ➥ Curso de Motion Design (Lemon Lemonade)🍋</p> 
-    <p> ➥ Curso Desvendando o 5G (SENAI) 📶</p>
-    <p> ➥ Economia Circular (SENAI) 💸</p> 
-    <p> ➥ LGPD (SENAI) ⛓️</p> 
+    <p> ➥ Google Cloud Cybersecurity (SENAI) 📶</p>
+    <p> ➥ Illustrator (SENAI) ✏️</p> 
+  
 </div>
 <br>
 <div align="center">
