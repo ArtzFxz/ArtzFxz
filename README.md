@@ -32,13 +32,6 @@
 <br>
 
 <div align="center">
-  <h2>Visits Counter</h2> 
-  
-  ![Visitor Count](https://profile-counter.glitch.me/ArtzFxz/count.svg)    
-</div>
-    <br>
-
-<div align="center">
   <h2>🎓 Completed Courses 🎓</h2> 
     <p> ➥ Inglês (WIZARD) 📢</p> 
     <p> ➥ Curso Raspberry-pi (Curso em Video)🍓</p>
