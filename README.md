@@ -33,9 +33,9 @@
 
 <div align="center">
   <h2>🎓 Completed Courses 🎓</h2> 
+    <p> ➥ Técnico Jogos Digitais 🎮</p> 
     <p> ➥ Inglês (WIZARD) 📢</p> 
     <p> ➥ Curso Raspberry-pi (Curso em Video)🍓</p>
-    <p> ➥ Curso de Motion Design (Lemon Lemonade)🍋</p> 
     <p> ➥ Google Cloud Cybersecurity (SENAI) 📶</p>
     <p> ➥ Illustrator (SENAI) ✏️</p> 
   
