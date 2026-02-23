@@ -22,9 +22,13 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C#" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
   <img align="center"  alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center"  alt="Rasberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center"  alt="Google Cloud" height="30" width="40" src="https://devicon-website.vercel.app/api/googlecloud/original.svg">
   <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="center"  alt="Canva logo" height="30" width="40" src="https://devicon-website.vercel.app/api/canva/original.svg"/>
   <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
 </div>
 
