@@ -48,7 +48,7 @@
 <div align="center">
 <h2>💪Hobbies:</h2>
   
-<img width="15%" height="15%" margin="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Valorant_logo_-_pink_color_version.svg/2560px-Valorant_logo_-_pink_color_version.svg.png"/>
+<img width="15%" height="15%" margin="30px" src="https://static.vecteezy.com/system/resources/previews/022/636/384/non_2x/valorant-logo-valorant-icon-transparent-free-png.png"/>
   
 <img width="15%" height="15%" src="https://image.spreadshirtmedia.net/image-server/v1/designs/15116158,width=178,height=178,colors%5B0%5D=141754,colors%5B1%5D=D41C3B.png"/>
   
