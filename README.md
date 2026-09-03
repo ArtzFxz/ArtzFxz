@@ -1,60 +1,366 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=850BD7&height=120&section==header"/>
-<br>
+<div align="center">
+
+# FELIPE POLEGATO
+
+### `building ideas → turning them into products`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Developer+%7C+Data+%7C+Creative+Technology;Building+digital+products;Turning+problems+into+systems;Learning.+Building.+Iterating." />
+
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Platypi&size=30&duration=3500&pause=2500&color=850BD7&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+Welcome+to+my+Git+Profile!;My+name+is+Felipe+Polegato;+I'm+18+years+old;I'm+a+Software-Developer+and+Illustrator;I'm+from+Brazil" alt="Typing SVG" /></a>
+<a href="https://github.com/Felipe-Polegato">
+<img src="https://img.shields.io/badge/GitHub-Felipe--Polegato-181717?style=for-the-badge&logo=github">
+</a>
 
-<br>
-<br>
+<a href="https://www.linkedin.com/in/felipe-polegato/">
+<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Polegato-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 
 </div>
 
+---
+
+# `01` — WHO AM I?
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   FELIPE POLEGATO                                            │
+│                                                              │
+│   Developer • Data • CEO • Creative Technology • Design      │
+│                                                              │
+│   I like taking an idea that exists only in someone's head   │
+│   and turning it into something people can actually use.     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+I'm a **Digital Games Technician**, programmer, **Data Science student** and CEO & Founder at Sw4nStudio.
+
+My interests sit at the intersection of:
+
+**software × data × design × products × technology**
+
+I don't want to build software just to make software.
+
+I want to understand the problem, design the solution and build something useful.
+
+---
+
+# `02` — CURRENTLY
+
+```yaml
+status: building
+
+focus:
+  - Software Development
+  - Data Science
+  - SQL & Databases
+  - UI/UX
+  - Digital Products
+  - Automation
+  - Artificial Intelligence
+
+mindset:
+  learn → build → test → improve → repeat
+```
+
+### What I'm working toward
+
+Becoming a developer capable of moving between **code, data, product and creativity**.
+
+---
+
+# `03` — MY STACK
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,c#" />
+
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,photoshop" />
+
+</p>
+
+### Currently exploring
+
+```text
+Data Science
+SQL
+Artificial Intelligence
+Automation
+Cloud
+UI/UX
+Product Development
+```
+
+---
+
+# `04` — PROJECT LAB
+
+> Some projects are experiments.
+> Some become products.
+> All of them teach something.
 
 <br>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
-  <img align="center"  alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center"  alt="Rasberrypi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  <img align="center"  alt="Google Cloud" height="30" width="40" src="https://devicon-website.vercel.app/api/googlecloud/original.svg">
-  <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-  <img align="center"  alt="Canva logo" height="30" width="40" src="https://devicon-website.vercel.app/api/canva/original.svg"/>
-  <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
-</div>
+### 🦢 SW4N
+
+**Digital products & technology**
+
+A personal ecosystem focused on creating digital products, applications, websites and technology solutions.
+
+`PRODUCT` `SOFTWARE` `STARTUP`
+
+---
+
+### 🎮 GamificaAI
+
+**Gamification × Technology**
+
+A project focused on applying gamification concepts to digital experiences.
+
+<a href="https://github.com/Felipe-Polegato/gamificaai">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🧪 Gamifuse
+
+**Experimenting with gamification**
+
+A project exploring the intersection between interfaces, gamification and digital experiences.
+
+<a href="https://github.com/Felipe-Polegato/gamifuse">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🎨 Portfolio ArtzFxz
+
+**Creative portfolio**
+
+A digital portfolio experiment combining development and visual design.
+
+<a href="https://github.com/Felipe-Polegato/PortfolioArtzFxz">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🧮 Calculator APP
+
+**Small project. Real practice.**
+
+A calculator built while practicing web development fundamentals.
+
+<a href="https://github.com/Felipe-Polegato/Calculator-APP">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+---
+
+### 🧠 SQL / Data Projects
+
+My database projects include exercises and systems involving:
+
+```text
+SQL
+MySQL
+MariaDB
+Queries
+JOINs
+Subqueries
+Functions
+Procedures
+Database Modeling
+```
+
+---
+
+# `05` — THE WAY I BUILD
+
+```text
+          ┌─────────────┐
+          │    IDEA     │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   PROBLEM   │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   DESIGN    │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │    CODE     │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │    TEST     │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   IMPROVE   │
+          └──────┬──────┘
+                 ↓
+          ┌─────────────┐
+          │   RELEASE   │
+          └─────────────┘
+```
+
+I believe the best projects are built through iteration.
+
+**Version 1 doesn't need to be perfect.
+It needs to exist.**
+
+---
+
+# `06` — EXPERIENCE THROUGH PROJECTS
+
+Instead of measuring development only by years, I prefer to measure it by what I've built.
+
+```text
+01  → learning fundamentals
+02  → building small projects
+03  → experimenting with products
+04  → working with databases
+05  → exploring data
+06  → combining design + development
+07  → building bigger ideas
+```
+
+Every repository is a snapshot of that evolution.
+
+---
+
+# `07` — EDUCATION
+
+🎓 **Superior Technology in Data Science**
+
+SENAI
+
+🎮 **Technical Course — Digital Games**
+
+SENAI
+
+📚 Continuous learning in:
+
+```text
+Programming
+Data
+Cybersecurity
+Design
+Cloud
+Databases
+UI/UX
+Artificial Intelligence
+```
+
+---
+
+# `08` — CERTIFICATIONS & COURSES
+
+| Area           | Certification / Course     |
+| -------------- | -------------------------- |
+| 🎮 Development | Digital Games Technician   |
+| 🔐 Security    | Google Cloud Cybersecurity |
+| 🎨 Design      | Illustrator                |
+| 🐍 Hardware    | Raspberry Pi               |
+| 🌎 Languages   | English                    |
+
+---
+
+# `09` — GITHUB ACTIVITY
+
 
 
 <br>
 
 <div align="center">
-  <h2>🎓 Completed Courses 🎓</h2> 
-    <p> ➥ Técnico Jogos Digitais 🎮</p> 
-    <p> ➥ Inglês (WIZARD) 📢</p> 
-    <p> ➥ Curso Raspberry-pi (Curso em Video)🍓</p>
-    <p> ➥ Google Cloud Cybersecurity (SENAI) 📶</p>
-    <p> ➥ Illustrator (SENAI) ✏️</p> 
-  
+
+<img src="https://streak-stats.demolab.com?user=Felipe-Polegato&theme=transparent&hide_border=true" />
+
 </div>
-<br>
+
+---
+
+# `10` — BEYOND THE CODE
+
+I also work with the creative side of technology.
+
+```text
+UI / UX
+Branding
+Visual Design
+Product Ideas
+Game Development
+Digital Experiences
+```
+
+Because sometimes the difference between a good project and a great project isn't the code.
+
+It's the **experience**.
+
+---
+
+# `11` — CURRENTLY BUILDING
+
+```diff
++ new ideas
++ data projects
++ digital products
++ experiments
++ better systems
++ better interfaces
++ better code
+
+- unnecessary complexity
+- projects without purpose
+```
+
+---
+
+# `12` — PHILOSOPHY
+
+> **Don't just learn technology.**
+>
+> **Build something with it.**
+
+---
+
+# `13` — LET'S CONNECT
+
 <div align="center">
-<h2>💪Hobbies:</h2>
-  
-<img width="15%" height="15%" margin="30px" src="https://static.vecteezy.com/system/resources/previews/022/636/384/non_2x/valorant-logo-valorant-icon-transparent-free-png.png"/>
-  
-<img width="15%" height="15%" src="https://image.spreadshirtmedia.net/image-server/v1/designs/15116158,width=178,height=178,colors%5B0%5D=141754,colors%5B1%5D=D41C3B.png"/>
-  
+
+<a href="https://github.com/Felipe-Polegato">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/felipe-polegato/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
 </div>
+
 <br>
 
-<div  align="center"> 
-  <h2>🌐 Socials:</h2>
+<div align="center">
 
-  <a href="https://www.instagram.com/polegato.design/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/v8Y3xRxXUc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:felipepolegatofr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### `ideas are cheap. execution is interesting.`
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Felipe-Polegato&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS">
 
 </div>
-
