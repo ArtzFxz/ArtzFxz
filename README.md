@@ -279,9 +279,9 @@ Artificial Intelligence
 | -------------- | -------------------------- |
 | 🎮 Development | Digital Games Technician   |
 | 🔐 Security    | Google Cloud Cybersecurity |
-| 🎨 Design      | Illustrator                |
+| 🎨 Design      | Social Media & Illustrator |
 | 🐍 Hardware    | Raspberry Pi               |
-| 🌎 Languages   | English                    |
+| 🌎 Languages   | English (Advanced)         |
 
 ---
 
@@ -337,9 +337,11 @@ It's the **experience**.
 
 # `12` — PHILOSOPHY
 
-> **Don't just learn technology.**
->
-> **Build something with it.**
+> **"Don't just learn technology. Build something with it."**
+
+> **"Those who are satisfied with the present are bound to stagnate."**
+
+> **"Ideas are worthless without execution, and execution is worthless without evolution."**
 
 ---
 
@@ -347,24 +349,31 @@ It's the **experience**.
 
 <div align="center">
 
+### Have an idea? Building something? Let's talk.
+
+<br>
+
 <a href="https://github.com/Felipe-Polegato">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GITHUB-Felipe--Polegato-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-<a href="https://www.linkedin.com/in/felipe-polegato/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-</div>
-
 <br>
 
-<div align="center">
-
-### `ideas are cheap. execution is interesting.`
-
+<a href="https://www.linkedin.com/in/felipepolegato/">
+<img src="https://img.shields.io/badge/LINKEDIN-Felipe%20Polegato-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Felipe-Polegato&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS">
+<a href="https://www.sw4n.com.br">
+<img src="https://img.shields.io/badge/SW4N-Visit%20Website-178386?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<br>
+
+<br><br>
+
+`code` • `data` • `products` • `design` • `technology`
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Felipe-Polegato&style=for-the-badge&color=0C7E81&label=PROFILE+VIEWS">
 
 </div>
