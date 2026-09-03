@@ -4,7 +4,7 @@
 
 ### `building ideas → turning them into products`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Developer+%7C+Data+%7C+Creative+Technology;Building+digital+products;Turning+problems+into+systems;Learning.+Building.+Iterating." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=178386&center=true&vCenter=true&width=650&lines=Developer+%7C+CEO+%7C+Creative+Technology;Building+digital+products;Turning+problems+into+systems;Learning.+Building.+Iterating." />
 
 <br>
 
@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/GitHub-Felipe--Polegato-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.linkedin.com/in/felipe-polegato/">
-<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Polegato-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/felipepolegato/">
+<img src="https://img.shields.io/badge/LinkedIn-Felipe%20Polegato-178386?style=for-the-badge&logo=linkedin">
 </a>
 
 </div>
@@ -115,9 +115,14 @@ Product Development
 
 **Digital products & technology**
 
-A personal ecosystem focused on creating digital products, applications, websites and technology solutions.
+A Company focused on creating digital products, applications, websites and technology solutions.
 
 `PRODUCT` `SOFTWARE` `STARTUP`
+<br>
+<br>
+<a href="https://www.sw4n.com.br/">
+<img src="https://img.shields.io/badge/MY%20COMPANY-178386?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
@@ -128,31 +133,31 @@ A personal ecosystem focused on creating digital products, applications, website
 A project focused on applying gamification concepts to digital experiences.
 
 <a href="https://github.com/Felipe-Polegato/gamificaai">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-178386?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
 
-### 🧪 Gamifuse
+  ### 🍔 Cardapio Click
 
-**Experimenting with gamification**
+**Experimenting with automations**
 
-A project exploring the intersection between interfaces, gamification and digital experiences.
+A project exploring the intersection between interfaces, digital experiences and automations.
 
-<a href="https://github.com/Felipe-Polegato/gamifuse">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://cardapio-click-seven.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-178386?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
 
-### 🎨 Portfolio ArtzFxz
+### 🎨 3D IMAGE SLIDER 
 
 **Creative portfolio**
 
-A digital portfolio experiment combining development and visual design.
+A digital portfolio experiment combining development and visual design with CSS only.
 
-<a href="https://github.com/Felipe-Polegato/PortfolioArtzFxz">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://3d-image-slider-alpha.vercel.app/">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-178386?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
@@ -164,7 +169,7 @@ A digital portfolio experiment combining development and visual design.
 A calculator built while practicing web development fundamentals.
 
 <a href="https://github.com/Felipe-Polegato/Calculator-APP">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-178386?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 ---
@@ -176,7 +181,6 @@ My database projects include exercises and systems involving:
 ```text
 SQL
 MySQL
-MariaDB
 Queries
 JOINs
 Subqueries
