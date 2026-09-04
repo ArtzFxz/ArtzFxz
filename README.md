@@ -176,7 +176,7 @@ A calculator built while practicing web development fundamentals.
 
 ### 🧠 SQL / Data Projects
 
-My database projects include exercises and systems involving:
+My database projects include exercises and systems involving
 
 ```text
 SQL
